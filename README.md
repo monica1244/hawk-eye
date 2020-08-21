@@ -1,6 +1,5 @@
 ## Hawk Eye
 ### Automatic Birds Eye View Registration of Sports Videos
-
 #### Course Project for CS 6476: Computer Vision (Prof. Devi Parikh) @ Georgia Institute of Technology
 
 #### Further implementation details can be found at: [https://nihal111.github.io/hawk_eye/](https://nihal111.github.io/hawk_eye/)
