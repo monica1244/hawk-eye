@@ -23,5 +23,5 @@ The players first have to be identified in the camera view. This is done by firs
 - Monica Gupta @ https://github.com/monica1244
 
 #### Project presentation
- Slides: https://docs.google.com/presentation/d/1zinlch7VtyuMFU1dZtBBaVbu1QHmc5oL3z5CUm7ywN4/edit?usp=sharing
+ Slides: https://docs.google.com/presentation/d/1zinlch7VtyuMFU1dZtBBaVbu1QHmc5oL3z5CUm7ywN4/edit?usp=sharing<br>
  Video: https://youtu.be/Jqh7Ce2R1Kk
